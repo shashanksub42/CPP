@@ -47,6 +47,14 @@ int main(){
     s.setBreadth(4);
     s.setLength(2);
     s.getArea();
-
-
 }
+
+/*
+OUTPUT:
+Rectangle
+Rectangle
+Square
+35
+36
+8
+*/
